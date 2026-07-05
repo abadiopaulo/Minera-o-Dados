@@ -28,10 +28,6 @@ Notebook principal do projeto. Ele contém todas as etapas da análise:
 7. clusterização das licenciaturas com K-Means;
 8. estudo de caso das IES de Uberlândia.
 
-### `figs/`
-
-Pasta sugerida para armazenar os gráficos gerados pelo notebook em formato PDF utilizado no artigo.
-
 ## Bases de dados utilizadas
 
 As bases utilizadas são públicas e foram obtidas nos microdados do Censo da Educação Superior de 2024, disponibilizados pelo INEP.
