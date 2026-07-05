@@ -179,7 +179,4 @@ As análises devem ser interpretadas como evidências quantitativas e explorató
 Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (INEP). Microdados do Censo da Educação Superior 2024.
 
 ## Autor
-
 Abadio de Paulo Silva  
-Programa de Pós-Graduação em Ciência da Computação  
-Universidade Federal de Uberlândia
